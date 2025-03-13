@@ -48,11 +48,11 @@ body {
 }
 
 .img {
-    background-image: url(image/Lucius-Miguel.jpg);
+    background-image: url(../image/lucios\ 600.png);
     width: 70px;
     height: 70px;
     background-size: cover;
-    background-position: -4px -32px;
+    background-position: 0px -25px;
     border-radius: 50%;
     /*border: 2px solid #25375f;*/
 }
